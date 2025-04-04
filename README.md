@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ziruiqiao/ziruiqiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Zirui Qiao!
 
-I'm passionate about web development, mobile development and building awesome tools.
+I'm passionate about Machine Learning, Web & Mobile Development and building awesome tools.
 
 ## 🧰 Tech Stack
 - 💻 JavaScript | TypeScript | Python | Java
